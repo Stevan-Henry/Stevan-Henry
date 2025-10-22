@@ -1,20 +1,25 @@
-# 👋 Hi, I’m Stevan Henry
+👋 Hi, I’m Stevan Henry
 
-👀 **I’m interested in:**  
-Web development and front-end development—bringing designs to life with clean and efficient code.
+I’m a Front-End Developer with a focus on building accessible, responsive, and user-centered web applications. I’m passionate about crafting clean, efficient interfaces that bring designs to life through modern JavaScript frameworks.
 
-🌱 **I’m currently learning:**  
-Pursuing a Computer Science degree at VCU, set to graduate in 2025. Always on the lookout for new techniques and tools to enhance my development skills.
+💻 About Me
 
-💞️ **I’m looking to collaborate on:**  
-Any exciting web application projects! If you've got a great idea or need a developer to bring your project to the next level, let's connect.
+Pursuing a B.S. in Computer Science at Virginia Commonwealth University (Graduating 2025).
 
-📫 **How to reach me:**  
-Email: Stevanh237@gmail.com  
-LinkedIn: [linkedin.com/in/stevan-henry](https://linkedin.com/in/stevan-henry)
+Experienced in React, Next.js, TypeScript, and modern front-end development practices.
 
-😄 **Pronouns:**  
-He/him
+Strong interest in UI/UX design, web performance optimization, and scalable component architecture.
 
-⚡ **Fun fact:**  
-When I'm not coding, you can find me hitting the slopes on my snowboard, leveling up in video games, sinking baskets on the court, or trying to perfect my golf swing. Always down for a challenge—on and off the keyboard! 🏂🎮⛳🏀
+🤝 Collaboration
+
+I enjoy collaborating on projects that emphasize thoughtful design and seamless user experiences. Open to contributing to front-end projects, design systems, or web-based products with real-world impact.
+
+📫 Contact
+
+📧 Stevanh237@gmail.com
+
+💼 linkedin.com/in/stevan-henry
+
+⚡ Outside of Work
+
+When I’m not developing, I enjoy snowboarding, gaming, basketball, and golf — activities that keep me creative, strategic, and focused.
