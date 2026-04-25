@@ -1,25 +1,43 @@
-👋 Hi, I’m Stevan Henry
+# Hey, I'm Stevan Henry 👋
 
-I’m a Front-End Developer with a focus on building accessible, responsive, and user-centered web applications. I’m passionate about crafting clean, efficient interfaces that bring designs to life through modern JavaScript frameworks.
+Full Stack Software Engineer based in Chester, VA. I build AI-integrated web applications, scalable APIs, and production-ready interfaces using React, TypeScript, and Node.js. I use Claude Code and Cursor as core parts of how I work — not extras.
 
-💻 About Me
+---
 
-Pursuing a B.S. in Computer Science at Virginia Commonwealth University (Graduating 2025).
+## 🛠️ Tech Stack
 
-Experienced in React, Next.js, TypeScript, and modern front-end development practices.
+**Frontend**
+React · Next.js · TypeScript · JavaScript · HTML5 · CSS3 · TailwindCSS
 
-Strong interest in UI/UX design, web performance optimization, and scalable component architecture.
+**Backend & Data**
+Node.js · Express · REST APIs · PostgreSQL · MongoDB · SQL · Python
 
-🤝 Collaboration
+**AI & Tooling**
+Claude API · GPT-4 · Claude Code · Cursor · Docker · Git · CI/CD · Agile
 
-I enjoy collaborating on projects that emphasize thoughtful design and seamless user experiences. Open to contributing to front-end projects, design systems, or web-based products with real-world impact.
+---
 
-📫 Contact
+## 🚀 Featured Projects
 
-📧 Stevanh237@gmail.com
+### [WhyNotUs.ai](https://whynotus.ai)
+Full-stack AI-integrated platform built from scratch. Architected the frontend in React/TypeScript, built RESTful APIs in Node.js, integrated Claude and GPT at the API level, and executed a zero-loss database migration from MongoDB to PostgreSQL across 300+ records.
 
-💼 linkedin.com/in/stevan-henry
+### [SproutGifts.com](https://sproutgifts.com)
+Production client project. Delivered frontend features and backend integrations for a live gifting platform serving real users.
 
-⚡ Outside of Work
+### [BucketListDoctor.com](https://bucketlistdoctor.com)
+Production client project. Built and shipped features end-to-end in a fast-moving startup environment with direct stakeholder collaboration.
 
-When I’m not developing, I enjoy snowboarding, gaming, basketball, and golf — activities that keep me creative, strategic, and focused.
+---
+
+## 📊 GitHub Stats
+
+![Stevan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=li
