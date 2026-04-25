@@ -40,4 +40,4 @@ Production client project. Built and shipped features end-to-end in a fast-movin
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=li
+[![LinkedIn]https://www.linkedin.com/in/stevan-henry/
