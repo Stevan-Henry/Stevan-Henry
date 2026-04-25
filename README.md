@@ -34,7 +34,7 @@ Production client project. Built and shipped features end-to-end in a fast-movin
 
 ![Stevan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stevan-Henry&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stevan-HenryE&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stevan-Henry&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
